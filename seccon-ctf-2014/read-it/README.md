@@ -18,3 +18,4 @@ Readit: (Corel/WP)
 ## Other write-ups and resources
 
 * <http://hackitta.net/seccon-ctf-2014-quals-readit/>
+https://www.youtube.com/watch?v=bJTRxuYTPdg : Spanish video, explaining how to find the password
